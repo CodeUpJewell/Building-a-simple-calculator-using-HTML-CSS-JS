@@ -1,2 +1,11 @@
 # Simple-calculator-using-HTML-CSS-Javascript
-Building a simple calculator using HTML, CSS, JS
+
+Project Overview
+
+In this project, I will be using HTML,CSS and JS to build a working simple calculator. 
+
+Project Files
+
+    index.html Contains all our HTML properties.
+    index.js Contains our Javascript properties.
+    style.css Contains our CSS properties.
